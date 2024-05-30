@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AntColonyOptimizationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AntColonyOptimizationApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AntColonyOptimizationApplication.class, args);
+    }
 
 }
